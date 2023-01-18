@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\오유진\Desktop\오유진\github\C-study\arrang_inc_dec\main.c(7,10): warning C4013: 'increase'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\오유진\Desktop\오유진\github\C-study\arrang_inc_dec\main.c(8,10): warning C4013: 'decrease'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\오유진\Desktop\오유진\github\C-study\arrang_inc_dec\main.c(17): warning C4716: 'increase': 값을 반환해야 합니다.
+C:\Users\오유진\Desktop\오유진\github\C-study\arrang_inc_dec\main.c(23): warning C4716: 'decrease': 값을 반환해야 합니다.
+  arrang_inc_dec.vcxproj -> C:\Users\오유진\Desktop\오유진\github\C-study\arrang_inc_dec\x64\Debug\arrang_inc_dec.exe
